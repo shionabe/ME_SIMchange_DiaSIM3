@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+// Route::get('hello','HellController@index');
+// Route::get('kyozin','HellController@elen');
+Route::get('top','DiaController@Diagnosis');
