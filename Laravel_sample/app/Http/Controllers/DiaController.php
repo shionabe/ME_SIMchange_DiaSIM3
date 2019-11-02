@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class HellController extends Controller
+class DiaController extends Controller
 {
     //
     // public function index(){
