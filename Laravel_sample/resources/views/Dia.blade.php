@@ -6,7 +6,7 @@
 </head>
 <body>
   <h2>Get started Diagnosis！</h2>
-  <p>どれがマッチするか診断する</p>
+  <p>どれがマッチするか診断するよ！</p>
 Nov/02/2019<p />
 </body>
 </html>
